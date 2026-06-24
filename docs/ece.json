@@ -1,244 +1,234 @@
 [
   {
-    "university": "Anna University",
-    "branch": "ECE",
-    "semester": 3,
-    "subject": "Digital Electronics",
+    "university": "Anna University", "branch": "ECE", "semester": 1, "subject": "Engineering Mathematics I",
     "topics": [
-      {
-        "name": "Number Systems and Boolean Algebra",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
-        ]
-      },
-      {
-        "name": "Combinational Circuits (Adders, Multiplexers, Decoders)",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
-        ]
-      },
-      {
-        "name": "Sequential Circuits (Flip Flops, Registers, Counters)",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
-        ]
-      },
-      {
-        "name": "Karnaugh Maps and Minimization",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
-        ]
-      },
-      {
-        "name": "Programmable Logic Devices (PLD, FPGA)",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
-        ]
-      }
+      { "name": "Differential Calculus (Limits, Derivatives, Applications)", "youtube_links": ["https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S"] },
+      { "name": "Integral Calculus (Definite and Indefinite Integrals)", "youtube_links": ["https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S"] },
+      { "name": "Ordinary Differential Equations (First and Second Order)", "youtube_links": ["https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S"] },
+      { "name": "Multivariable Calculus and Partial Derivatives", "youtube_links": ["https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S"] }
     ]
   },
   {
-    "university": "Anna University",
-    "branch": "ECE",
-    "semester": 3,
-    "subject": "Signals and Systems",
+    "university": "Anna University", "branch": "ECE", "semester": 1, "subject": "Engineering Physics",
     "topics": [
-      {
-        "name": "Classification of Signals and Systems",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
-        ]
-      },
-      {
-        "name": "Fourier Series and Fourier Transform",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
-        ]
-      },
-      {
-        "name": "Laplace Transform",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
-        ]
-      },
-      {
-        "name": "Z-Transform",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
-        ]
-      },
-      {
-        "name": "Convolution and Correlation",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
-        ]
-      },
-      {
-        "name": "Sampling Theorem",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
-        ]
-      }
+      { "name": "Properties of Matter and Elasticity", "youtube_links": ["https://www.youtube.com/playlist?list=PLajrVxcKRJ5f4a7cJ-MetbIdZ64_5Sci-"] },
+      { "name": "Quantum Mechanics and Wave Theory", "youtube_links": ["https://www.youtube.com/playlist?list=PLajrVxcKRJ5f4a7cJ-MetbIdZ64_5Sci-"] },
+      { "name": "Lasers and Fiber Optics", "youtube_links": ["https://www.youtube.com/playlist?list=PLajrVxcKRJ5f4a7cJ-MetbIdZ64_5Sci-"] },
+      { "name": "Crystal Physics and Semiconductor Physics", "youtube_links": ["https://www.youtube.com/playlist?list=PLajrVxcKRJ5f4a7cJ-MetbIdZ64_5Sci-"] }
     ]
   },
   {
-    "university": "Anna University",
-    "branch": "ECE",
-    "semester": 4,
-    "subject": "Communication Theory",
+    "university": "Anna University", "branch": "ECE", "semester": 1, "subject": "Problem Solving and Python Programming",
     "topics": [
-      {
-        "name": "Amplitude Modulation (AM)",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
-        ]
-      },
-      {
-        "name": "Frequency Modulation (FM) and Phase Modulation (PM)",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
-        ]
-      },
-      {
-        "name": "Noise in Communication Systems",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
-        ]
-      },
-      {
-        "name": "Pulse Modulation (PAM, PCM, PWM)",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
-        ]
-      }
+      { "name": "Algorithmic Problem Solving and Flowcharts", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
+      { "name": "Python Basics (Data Types, Operators, I/O)", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
+      { "name": "Control Flow (Conditionals and Loops)", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
+      { "name": "Functions, Modules and Packages", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
+      { "name": "Lists, Tuples, Dictionaries and File Handling", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] }
     ]
   },
   {
-    "university": "Anna University",
-    "branch": "ECE",
-    "semester": 4,
-    "subject": "Linear Integrated Circuits",
+    "university": "Anna University", "branch": "ECE", "semester": 2, "subject": "Engineering Mathematics II",
     "topics": [
-      {
-        "name": "Operational Amplifiers (Op-Amp) Basics",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
-        ]
-      },
-      {
-        "name": "Op-Amp Applications (Inverting, Non-Inverting, Comparators)",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
-        ]
-      },
-      {
-        "name": "Oscillators and Timers (555 Timer)",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
-        ]
-      },
-      {
-        "name": "Voltage Regulators",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
-        ]
-      }
+      { "name": "Linear Algebra (Matrices, Determinants, Eigenvalues)", "youtube_links": ["https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7"] },
+      { "name": "Vector Calculus (Gradient, Divergence, Curl)", "youtube_links": ["https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S"] },
+      { "name": "Complex Analysis", "youtube_links": ["https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7"] },
+      { "name": "Laplace Transforms", "youtube_links": ["https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S"] },
+      { "name": "Fourier Series and Transforms", "youtube_links": ["https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S"] }
     ]
   },
   {
-    "university": "Anna University",
-    "branch": "ECE",
-    "semester": 5,
-    "subject": "Digital Communication",
+    "university": "Anna University", "branch": "ECE", "semester": 2, "subject": "Basic Electrical Engineering",
     "topics": [
-      {
-        "name": "Digital Modulation (ASK, FSK, PSK, QAM)",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
-        ]
-      },
-      {
-        "name": "Error Detection and Correction Codes",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"
-        ]
-      },
-      {
-        "name": "Spread Spectrum Techniques",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
-        ]
-      },
-      {
-        "name": "Multiple Access Techniques (TDMA, FDMA, CDMA)",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
-        ]
-      }
+      { "name": "DC Circuits (Ohm's Law, KVL, KCL, Thevenin, Norton)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "AC Circuits (RLC, Resonance, Power Factor)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Transformers and Machines", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Three-Phase Systems and Power Measurement", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] }
     ]
   },
   {
-    "university": "Anna University",
-    "branch": "ECE",
-    "semester": 5,
-    "subject": "Microprocessors and Microcontrollers",
+    "university": "Anna University", "branch": "ECE", "semester": 2, "subject": "C Programming",
     "topics": [
-      {
-        "name": "8085 Microprocessor Architecture",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
-        ]
-      },
-      {
-        "name": "8085 Instruction Set and Programming",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
-        ]
-      },
-      {
-        "name": "8051 Microcontroller Architecture",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
-        ]
-      },
-      {
-        "name": "Interfacing (ADC, DAC, Keyboard, Display)",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
-        ]
-      }
+      { "name": "Basics of C (Tokens, Operators, I/O)", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
+      { "name": "Control Statements and Loops", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
+      { "name": "Functions and Recursion", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
+      { "name": "Arrays, Strings and Pointers", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
+      { "name": "Structures, Unions and File Handling", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] }
     ]
   },
   {
-    "university": "Anna University",
-    "branch": "ECE",
-    "semester": 6,
-    "subject": "VLSI Design",
+    "university": "Anna University", "branch": "ECE", "semester": 3, "subject": "Digital Electronics",
     "topics": [
-      {
-        "name": "MOS Transistor Theory",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
-        ]
-      },
-      {
-        "name": "CMOS Logic Design",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
-        ]
-      },
-      {
-        "name": "HDL Programming (VHDL / Verilog)",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
-        ]
-      },
-      {
-        "name": "Physical Design and Layout",
-        "youtube_links": [
-          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
-        ]
-      }
+      { "name": "Number Systems and Boolean Algebra", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Combinational Circuits (Adders, Multiplexers, Decoders)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Sequential Circuits (Flip Flops, Registers, Counters)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Karnaugh Maps and Minimization", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Programmable Logic Devices (PLD, FPGA)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] }
+    ]
+  },
+  {
+    "university": "Anna University", "branch": "ECE", "semester": 3, "subject": "Signals and Systems",
+    "topics": [
+      { "name": "Classification of Signals and Systems", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "Fourier Series and Fourier Transform", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "Laplace Transform and Its Applications", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "Z-Transform and Discrete Systems", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "Convolution, Correlation and Sampling Theorem", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] }
+    ]
+  },
+  {
+    "university": "Anna University", "branch": "ECE", "semester": 3, "subject": "Electronic Devices and Circuits",
+    "topics": [
+      { "name": "PN Junction Diode and Applications", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Bipolar Junction Transistors (BJT)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Field Effect Transistors (JFET, MOSFET)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Amplifier Circuits and Biasing", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Feedback Amplifiers and Oscillators", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] }
+    ]
+  },
+  {
+    "university": "Anna University", "branch": "ECE", "semester": 3, "subject": "Network Theory",
+    "topics": [
+      { "name": "Network Theorems (Thevenin, Norton, Superposition)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Graph Theory Applied to Networks", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "Two-Port Network Parameters (Z, Y, H, ABCD)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "Network Functions and Frequency Response", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] }
+    ]
+  },
+  {
+    "university": "Anna University", "branch": "ECE", "semester": 4, "subject": "Analog Electronics",
+    "topics": [
+      { "name": "Small Signal Analysis of BJT and FET", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Multistage Amplifiers and Frequency Response", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Power Amplifiers (Class A, B, AB, C)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Tuned Amplifiers and Oscillators", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Rectifiers, Filters and Voltage Regulators", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] }
+    ]
+  },
+  {
+    "university": "Anna University", "branch": "ECE", "semester": 4, "subject": "Communication Theory",
+    "topics": [
+      { "name": "Amplitude Modulation (AM, DSB-SC, SSB)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "Frequency and Phase Modulation (FM, PM)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "Noise in Communication Systems", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "Pulse Modulation (PAM, PCM, PWM, PPM)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "Receivers (Superheterodyne, FM Receiver)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] }
+    ]
+  },
+  {
+    "university": "Anna University", "branch": "ECE", "semester": 4, "subject": "Linear Integrated Circuits",
+    "topics": [
+      { "name": "Op-Amp Basics and Characteristics", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Op-Amp Applications (Inverting, Non-Inverting, Comparators)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Active Filters (Low Pass, High Pass, Band Pass)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Oscillators and Timers (555 Timer IC)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "D/A and A/D Converters, Voltage Regulators", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] }
+    ]
+  },
+  {
+    "university": "Anna University", "branch": "ECE", "semester": 4, "subject": "Electromagnetic Theory",
+    "topics": [
+      { "name": "Electrostatics (Coulomb's Law, Electric Field, Gauss's Law)", "youtube_links": ["https://www.youtube.com/playlist?list=PLajrVxcKRJ5f4a7cJ-MetbIdZ64_5Sci-"] },
+      { "name": "Magnetostatics (Biot-Savart, Ampere's Law)", "youtube_links": ["https://www.youtube.com/playlist?list=PLajrVxcKRJ5f4a7cJ-MetbIdZ64_5Sci-"] },
+      { "name": "Maxwell's Equations and Electromagnetic Waves", "youtube_links": ["https://www.youtube.com/playlist?list=PLajrVxcKRJ5f4a7cJ-MetbIdZ64_5Sci-"] },
+      { "name": "Transmission Lines and Wave Propagation", "youtube_links": ["https://www.youtube.com/playlist?list=PLajrVxcKRJ5f4a7cJ-MetbIdZ64_5Sci-"] }
+    ]
+  },
+  {
+    "university": "Anna University", "branch": "ECE", "semester": 5, "subject": "Digital Communication",
+    "topics": [
+      { "name": "Digital Modulation (ASK, FSK, PSK, QAM)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "Error Detection and Correction Codes (Hamming, CRC)", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] },
+      { "name": "Spread Spectrum Techniques (FHSS, DSSS)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "Multiple Access Techniques (TDMA, FDMA, CDMA)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "Information Theory and Source Coding", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] }
+    ]
+  },
+  {
+    "university": "Anna University", "branch": "ECE", "semester": 5, "subject": "Microprocessors and Microcontrollers",
+    "topics": [
+      { "name": "8085 Microprocessor Architecture", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "8085 Instruction Set and Assembly Programming", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "8051 Microcontroller Architecture and Programming", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Interfacing (ADC, DAC, Sensors, LCD)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] }
+    ]
+  },
+  {
+    "university": "Anna University", "branch": "ECE", "semester": 5, "subject": "Control Systems",
+    "topics": [
+      { "name": "Mathematical Modeling of Systems (Transfer Function)", "youtube_links": ["https://www.youtube.com/playlist?list=PL3g7d04Gn7boVeN7MrYvowROANYUv9Qzx"] },
+      { "name": "Time Domain Analysis (Transient Response)", "youtube_links": ["https://www.youtube.com/playlist?list=PL3g7d04Gn7boVeN7MrYvowROANYUv9Qzx"] },
+      { "name": "Frequency Domain Analysis (Bode, Nyquist Plots)", "youtube_links": ["https://www.youtube.com/playlist?list=PL3g7d04Gn7boVeN7MrYvowROANYUv9Qzx"] },
+      { "name": "Stability Analysis (Routh-Hurwitz, Root Locus)", "youtube_links": ["https://www.youtube.com/playlist?list=PL3g7d04Gn7boVeN7MrYvowROANYUv9Qzx"] },
+      { "name": "Controllers (PID) and Compensators", "youtube_links": ["https://www.youtube.com/playlist?list=PL3g7d04Gn7boVeN7MrYvowROANYUv9Qzx"] }
+    ]
+  },
+  {
+    "university": "Anna University", "branch": "ECE", "semester": 5, "subject": "VLSI Design",
+    "topics": [
+      { "name": "MOS Transistor Theory and Characteristics", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "CMOS Logic Design and Gate Design", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "HDL Programming (VHDL and Verilog)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Physical Design and Layout (VLSI Fabrication)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Testing and Verification of VLSI Circuits", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] }
+    ]
+  },
+  {
+    "university": "Anna University", "branch": "ECE", "semester": 6, "subject": "Wireless Communication",
+    "topics": [
+      { "name": "Cellular Concepts and Mobile Architecture", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] },
+      { "name": "2G, 3G, 4G and 5G Standards", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] },
+      { "name": "OFDM and MIMO Systems", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "Channel Modeling and Propagation", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "Wireless LAN (Wi-Fi) and Bluetooth", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] }
+    ]
+  },
+  {
+    "university": "Anna University", "branch": "ECE", "semester": 6, "subject": "Embedded Systems",
+    "topics": [
+      { "name": "Embedded System Architecture and Design", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "ARM Processor Architecture and Programming", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Real-Time Operating Systems (RTOS)", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0s97SmLffYDPLccThs7oDgN"] },
+      { "name": "Device Drivers and Embedded Linux", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "IoT and Embedded Communication Protocols", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] }
+    ]
+  },
+  {
+    "university": "Anna University", "branch": "ECE", "semester": 6, "subject": "Digital Signal Processing",
+    "topics": [
+      { "name": "Discrete Fourier Transform (DFT and FFT)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "FIR Filter Design", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "IIR Filter Design", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "Multirate Signal Processing", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "DSP Processor Architecture", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] }
+    ]
+  },
+  {
+    "university": "Anna University", "branch": "ECE", "semester": 6, "subject": "Antenna and Wave Propagation",
+    "topics": [
+      { "name": "Antenna Fundamentals (Radiation Pattern, Gain, Directivity)", "youtube_links": ["https://www.youtube.com/playlist?list=PLajrVxcKRJ5f4a7cJ-MetbIdZ64_5Sci-"] },
+      { "name": "Wire Antennas (Dipole, Monopole, Yagi)", "youtube_links": ["https://www.youtube.com/playlist?list=PLajrVxcKRJ5f4a7cJ-MetbIdZ64_5Sci-"] },
+      { "name": "Aperture and Microstrip Antennas", "youtube_links": ["https://www.youtube.com/playlist?list=PLajrVxcKRJ5f4a7cJ-MetbIdZ64_5Sci-"] },
+      { "name": "Wave Propagation (Ground, Sky, Space Wave)", "youtube_links": ["https://www.youtube.com/playlist?list=PLajrVxcKRJ5f4a7cJ-MetbIdZ64_5Sci-"] }
+    ]
+  },
+  {
+    "university": "Anna University", "branch": "ECE", "semester": 7, "subject": "Electives",
+    "topics": [
+      { "name": "Optical Communication and Networks", "youtube_links": ["https://www.youtube.com/playlist?list=PLajrVxcKRJ5f4a7cJ-MetbIdZ64_5Sci-"] },
+      { "name": "Radar and Satellite Communication", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"] },
+      { "name": "Machine Learning for Signal Processing", "youtube_links": ["https://www.youtube.com/playlist?list=PLWp84cOxjEjMoI__Rn9yDwNeYJR7Pgpl9"] },
+      { "name": "Internet of Things (IoT) Applications", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
+      { "name": "Biomedical Electronics", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] }
+    ]
+  },
+  {
+    "university": "Anna University", "branch": "ECE", "semester": 8, "subject": "Final Year Project",
+    "topics": [
+      { "name": "Project Planning and Requirements Analysis", "youtube_links": ["https://www.youtube.com/playlist?list=PLrpK1inhO61U4Id86sm-csobVDYOiQUlM"] },
+      { "name": "Hardware and Software Design", "youtube_links": ["https://www.youtube.com/playlist?list=PLrpK1inhO61U4Id86sm-csobVDYOiQUlM"] },
+      { "name": "Implementation and Testing", "youtube_links": ["https://www.youtube.com/playlist?list=PLrpK1inhO61U4Id86sm-csobVDYOiQUlM"] },
+      { "name": "Project Report and Presentation", "youtube_links": ["https://www.youtube.com/playlist?list=PLrpK1inhO61U4Id86sm-csobVDYOiQUlM"] }
     ]
   }
 ]
