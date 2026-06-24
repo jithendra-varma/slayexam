@@ -1,0 +1,244 @@
+[
+  {
+    "university": "Anna University",
+    "branch": "ECE",
+    "semester": 3,
+    "subject": "Digital Electronics",
+    "topics": [
+      {
+        "name": "Number Systems and Boolean Algebra",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
+        ]
+      },
+      {
+        "name": "Combinational Circuits (Adders, Multiplexers, Decoders)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
+        ]
+      },
+      {
+        "name": "Sequential Circuits (Flip Flops, Registers, Counters)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
+        ]
+      },
+      {
+        "name": "Karnaugh Maps and Minimization",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
+        ]
+      },
+      {
+        "name": "Programmable Logic Devices (PLD, FPGA)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
+        ]
+      }
+    ]
+  },
+  {
+    "university": "Anna University",
+    "branch": "ECE",
+    "semester": 3,
+    "subject": "Signals and Systems",
+    "topics": [
+      {
+        "name": "Classification of Signals and Systems",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
+        ]
+      },
+      {
+        "name": "Fourier Series and Fourier Transform",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
+        ]
+      },
+      {
+        "name": "Laplace Transform",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
+        ]
+      },
+      {
+        "name": "Z-Transform",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
+        ]
+      },
+      {
+        "name": "Convolution and Correlation",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
+        ]
+      },
+      {
+        "name": "Sampling Theorem",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
+        ]
+      }
+    ]
+  },
+  {
+    "university": "Anna University",
+    "branch": "ECE",
+    "semester": 4,
+    "subject": "Communication Theory",
+    "topics": [
+      {
+        "name": "Amplitude Modulation (AM)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
+        ]
+      },
+      {
+        "name": "Frequency Modulation (FM) and Phase Modulation (PM)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
+        ]
+      },
+      {
+        "name": "Noise in Communication Systems",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
+        ]
+      },
+      {
+        "name": "Pulse Modulation (PAM, PCM, PWM)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
+        ]
+      }
+    ]
+  },
+  {
+    "university": "Anna University",
+    "branch": "ECE",
+    "semester": 4,
+    "subject": "Linear Integrated Circuits",
+    "topics": [
+      {
+        "name": "Operational Amplifiers (Op-Amp) Basics",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
+        ]
+      },
+      {
+        "name": "Op-Amp Applications (Inverting, Non-Inverting, Comparators)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
+        ]
+      },
+      {
+        "name": "Oscillators and Timers (555 Timer)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
+        ]
+      },
+      {
+        "name": "Voltage Regulators",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
+        ]
+      }
+    ]
+  },
+  {
+    "university": "Anna University",
+    "branch": "ECE",
+    "semester": 5,
+    "subject": "Digital Communication",
+    "topics": [
+      {
+        "name": "Digital Modulation (ASK, FSK, PSK, QAM)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
+        ]
+      },
+      {
+        "name": "Error Detection and Correction Codes",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"
+        ]
+      },
+      {
+        "name": "Spread Spectrum Techniques",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
+        ]
+      },
+      {
+        "name": "Multiple Access Techniques (TDMA, FDMA, CDMA)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO"
+        ]
+      }
+    ]
+  },
+  {
+    "university": "Anna University",
+    "branch": "ECE",
+    "semester": 5,
+    "subject": "Microprocessors and Microcontrollers",
+    "topics": [
+      {
+        "name": "8085 Microprocessor Architecture",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
+        ]
+      },
+      {
+        "name": "8085 Instruction Set and Programming",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
+        ]
+      },
+      {
+        "name": "8051 Microcontroller Architecture",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
+        ]
+      },
+      {
+        "name": "Interfacing (ADC, DAC, Keyboard, Display)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
+        ]
+      }
+    ]
+  },
+  {
+    "university": "Anna University",
+    "branch": "ECE",
+    "semester": 6,
+    "subject": "VLSI Design",
+    "topics": [
+      {
+        "name": "MOS Transistor Theory",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
+        ]
+      },
+      {
+        "name": "CMOS Logic Design",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
+        ]
+      },
+      {
+        "name": "HDL Programming (VHDL / Verilog)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
+        ]
+      },
+      {
+        "name": "Physical Design and Layout",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"
+        ]
+      }
+    ]
+  }
+]

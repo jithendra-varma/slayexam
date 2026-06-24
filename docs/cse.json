@@ -1,0 +1,273 @@
+[
+  {
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 3,
+    "subject": "Data Structures",
+    "topics": [
+      {
+        "name": "Arrays and Linked Lists",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLZNz7wrFA85C9R7mVxQNAlTazqO20T8Fy",
+          "https://www.youtube.com/playlist?list=PLWp84cOxjEjMoI__Rn9yDwNeYJR7Pgpl9"
+        ]
+      },
+      {
+        "name": "Stacks and Queues",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLZNz7wrFA85C9R7mVxQNAlTazqO20T8Fy"
+        ]
+      },
+      {
+        "name": "Trees (Binary, BST, AVL)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLZNz7wrFA85C9R7mVxQNAlTazqO20T8Fy",
+          "https://www.youtube.com/playlist?list=PLWp84cOxjEjMoI__Rn9yDwNeYJR7Pgpl9"
+        ]
+      },
+      {
+        "name": "Graphs (BFS, DFS, Shortest Path)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLZNz7wrFA85C9R7mVxQNAlTazqO20T8Fy"
+        ]
+      },
+      {
+        "name": "Sorting and Searching Algorithms",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLWp84cOxjEjMoI__Rn9yDwNeYJR7Pgpl9"
+        ]
+      },
+      {
+        "name": "Hashing",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLZNz7wrFA85C9R7mVxQNAlTazqO20T8Fy"
+        ]
+      }
+    ]
+  },
+  {
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 3,
+    "subject": "Object Oriented Programming",
+    "topics": [
+      {
+        "name": "Classes and Objects",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX"
+        ]
+      },
+      {
+        "name": "Inheritance and Polymorphism",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX"
+        ]
+      },
+      {
+        "name": "Exception Handling",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX"
+        ]
+      },
+      {
+        "name": "File I/O and Streams",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX"
+        ]
+      }
+    ]
+  },
+  {
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 4,
+    "subject": "Operating Systems",
+    "topics": [
+      {
+        "name": "Process Management and Scheduling",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLE-RdVsYEV0s97SmLffYDPLccThs7oDgN"
+        ]
+      },
+      {
+        "name": "Memory Management and Virtual Memory",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLE-RdVsYEV0s97SmLffYDPLccThs7oDgN"
+        ]
+      },
+      {
+        "name": "Deadlocks",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLE-RdVsYEV0s97SmLffYDPLccThs7oDgN"
+        ]
+      },
+      {
+        "name": "File Systems",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLE-RdVsYEV0s97SmLffYDPLccThs7oDgN"
+        ]
+      },
+      {
+        "name": "Synchronization (Semaphores, Mutex)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLE-RdVsYEV0s97SmLffYDPLccThs7oDgN"
+        ]
+      }
+    ]
+  },
+  {
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 4,
+    "subject": "Database Management Systems",
+    "topics": [
+      {
+        "name": "ER Model and Relational Model",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX",
+          "https://www.youtube.com/playlist?list=PLn32mJ8RhQWiIgEoD2U3gHoHC3ApDOHas"
+        ]
+      },
+      {
+        "name": "SQL and Relational Algebra",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX",
+          "https://www.youtube.com/playlist?list=PLn32mJ8RhQWiIgEoD2U3gHoHC3ApDOHas"
+        ]
+      },
+      {
+        "name": "Normalization (1NF, 2NF, 3NF, BCNF)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX",
+          "https://www.youtube.com/playlist?list=PLn32mJ8RhQWiIgEoD2U3gHoHC3ApDOHas"
+        ]
+      },
+      {
+        "name": "Transaction Management and Concurrency Control",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX"
+        ]
+      },
+      {
+        "name": "Indexing and Query Optimization",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLn32mJ8RhQWiIgEoD2U3gHoHC3ApDOHas"
+        ]
+      }
+    ]
+  },
+  {
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 4,
+    "subject": "Computer Networks",
+    "topics": [
+      {
+        "name": "OSI and TCP/IP Models",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"
+        ]
+      },
+      {
+        "name": "Data Link Layer (Framing, Error Detection, MAC)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"
+        ]
+      },
+      {
+        "name": "Network Layer (IP, Routing Algorithms)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"
+        ]
+      },
+      {
+        "name": "Transport Layer (TCP, UDP)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"
+        ]
+      },
+      {
+        "name": "Application Layer (HTTP, DNS, FTP, SMTP)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"
+        ]
+      }
+    ]
+  },
+  {
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 5,
+    "subject": "Theory of Computation",
+    "topics": [
+      {
+        "name": "Finite Automata (DFA, NFA)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"
+        ]
+      },
+      {
+        "name": "Regular Expressions and Regular Languages",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"
+        ]
+      },
+      {
+        "name": "Context Free Grammars and Pushdown Automata",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"
+        ]
+      },
+      {
+        "name": "Turing Machines",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"
+        ]
+      },
+      {
+        "name": "Decidability and NP-Completeness",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"
+        ]
+      }
+    ]
+  },
+  {
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 5,
+    "subject": "Compiler Design",
+    "topics": [
+      {
+        "name": "Lexical Analysis",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"
+        ]
+      },
+      {
+        "name": "Syntax Analysis (Parsing)",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"
+        ]
+      },
+      {
+        "name": "Semantic Analysis and Symbol Table",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"
+        ]
+      },
+      {
+        "name": "Intermediate Code Generation",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"
+        ]
+      },
+      {
+        "name": "Code Optimization and Code Generation",
+        "youtube_links": [
+          "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"
+        ]
+      }
+    ]
+  }
+]
