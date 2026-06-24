@@ -10,32 +10,79 @@
 
 ## Team & Roles
 
-- **Jithu (jithendra9367@gmail.com)** — Lead developer, sole pusher to `main`
-- **Hari** — Developer on `hari` branch
-- **Subbu** — Developer on `subbu` branch
+- **Jithu** — Lead developer
+- **Hari** — Developer
+- **Subbu** — Developer
+
+All team members can push & pull from `main` directly.
 
 ## Git Branching Model
 
 ```
-main (protected)
-├── hari → Hari's development branch
-├── jithu → Jithu's development branch
-└── subbu → Subbu's development branch
+main (shared development)
+├── hari → Optional personal branch for Hari
+├── jithu → Optional personal branch for Jithu
+└── subbu → Optional personal branch for Subbu
 ```
 
 **Branch Rules:**
-- Each developer works on their own branch (e.g., `hari`, `jithu`, `subbu`)
-- All code merges to `main` via pull request (PR)
-- Only **Jithu** can approve and merge PRs to `main`
-- `main` is production-ready and protected against direct pushes
+- **Work on `main`** — All team members push/pull directly from main
+- **Optional:** Use personal branches (hari, jithu, subbu) for isolated feature work, then merge to main
+- **Stay in sync:** Always `git pull origin main` before pushing
+- **Commit history:** All commits are tracked. Can revert to any previous commit if needed
 
 ## Workflow
 
-1. **Develop** on your personal branch (`git checkout <your-branch>`)
-2. **Commit** regularly with clear messages
-3. **Push** to your branch: `git push origin <your-branch>`
-4. **Create PR** when feature is ready for review
-5. **Jithu reviews** and merges to `main`
+1. **Pull latest:** `git pull origin main` (stay in sync)
+2. **Create/edit files** on your local machine
+3. **Commit regularly:** `git commit -m "Clear message"`
+4. **Push to main:** `git push origin main`
+5. **Everyone sees updates immediately** ✅
+
+**If using personal branches:**
+1. Work on your branch: `git checkout hari`
+2. Push: `git push origin hari`
+3. Switch to main: `git checkout main`
+4. Merge: `git merge hari` or create a PR on GitHub
+5. Push: `git push origin main`
+
+## Commit Rules & Standards
+
+**Commit Message Format:**
+```
+<type>: <subject>
+
+<optional body>
+```
+
+**Types:**
+- `feat:` — New feature
+- `fix:` — Bug fix
+- `docs:` — Documentation changes
+- `style:` — Code style (formatting, spacing, etc.)
+- `refactor:` — Code refactoring without changing functionality
+- `test:` — Test-related changes
+- `chore:` — Build, dependencies, configuration changes
+
+**Examples:**
+```bash
+git commit -m "feat: add youtube playlist filter by branch"
+git commit -m "fix: resolve login form validation error"
+git commit -m "docs: update CLAUDE.md with commit rules"
+git commit -m "refactor: simplify playlist fetching logic"
+```
+
+**Commit Best Practices:**
+1. **Commit often** — Small, logical commits are better than one huge commit
+2. **Clear messages** — Be specific about what changed and why
+3. **One thing per commit** — Don't mix unrelated changes
+4. **Test before pushing** — Ensure your code works locally
+5. **Pull before push** — Always `git pull origin main` before pushing
+
+**Forbidden:**
+- ❌ Commit messages like "fix", "update", "changes"
+- ❌ Committing without testing locally
+- ❌ Pushing sensitive data (passwords, API keys) — Add to `.gitignore`
 
 ## Stack
 

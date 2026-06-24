@@ -16,17 +16,19 @@ Current focus: Serve YouTube playlist content filtered by:
 
 ## Git Workflow
 
-- **`main`** — Production-ready code. Only Jithu can push directly to main via pull requests.
-- **`jithu`**, **`hari`**, **`subbu`** — Personal working branches. Each team member pushes their work here.
-- **Pull requests** → Code review → Merge to main
+- **`main`** — Shared development branch. All team members can push & pull directly.
+- **`jithu`**, **`hari`**, **`subbu`** — Personal feature branches (optional, for parallel development).
+- **Quick Sync:** Pull from main before pushing to stay in sync.
+- **Revert Anytime:** All commits are tracked in history. Can revert to any previous commit if needed.
 
 ## Getting Started
 
 1. Clone the repo: `git clone https://github.com/jithendra-varma/slayexam.git`
-2. Switch to your branch: `git checkout <your-branch>` (hari, jithu, or subbu)
-3. Make changes, commit, and push to your branch
-4. Open a pull request to merge into `main` when ready
-5. Jithu reviews and merges to production
+2. Work on `main` branch (or your personal branch, then merge to main)
+3. Make changes, commit regularly with clear messages
+4. Pull before pushing: `git pull origin main`
+5. Push your work: `git push origin main`
+6. Everyone stays in sync on main!
 
 ## Project Structure
 
