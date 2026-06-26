@@ -1,0 +1,12 @@
+{
+  "name": "slayexam-link-updater",
+  "version": "1.0.0",
+  "description": "Updates topic YouTube links with best-match specific videos",
+  "main": "update_video_links.js",
+  "scripts": {
+    "update": "node update_video_links.js"
+  },
+  "dependencies": {
+    "youtube-search-api": "^2.0.1"
+  }
+}

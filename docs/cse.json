@@ -1,234 +1,866 @@
 [
   {
-    "university": "Anna University", "branch": "CSE", "semester": 1, "subject": "Engineering Mathematics I",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 1,
+    "subject": "Engineering Mathematics I",
     "topics": [
-      { "name": "Differential Calculus (Limits, Derivatives, Applications)", "youtube_links": ["https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S"] },
-      { "name": "Integral Calculus (Definite and Indefinite Integrals)", "youtube_links": ["https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S"] },
-      { "name": "Ordinary Differential Equations (First and Second Order)", "youtube_links": ["https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S"] },
-      { "name": "Multivariable Calculus and Partial Derivatives", "youtube_links": ["https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S"] }
+      {
+        "name": "Differential Calculus (Limits, Derivatives, Applications)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=riXcZT2ICjA"
+        ]
+      },
+      {
+        "name": "Integral Calculus (Definite and Indefinite Integrals)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=o75AqTInKDU"
+        ]
+      },
+      {
+        "name": "Ordinary Differential Equations (First and Second Order)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=MaZatB5UiwU"
+        ]
+      },
+      {
+        "name": "Multivariable Calculus and Partial Derivatives",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=m1nL-ns2dMk"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 1, "subject": "Engineering Physics",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 1,
+    "subject": "Engineering Physics",
     "topics": [
-      { "name": "Properties of Matter and Elasticity", "youtube_links": ["https://www.youtube.com/playlist?list=PLajrVxcKRJ5f4a7cJ-MetbIdZ64_5Sci-"] },
-      { "name": "Quantum Mechanics and Wave Theory", "youtube_links": ["https://www.youtube.com/playlist?list=PLajrVxcKRJ5f4a7cJ-MetbIdZ64_5Sci-"] },
-      { "name": "Lasers and Fiber Optics", "youtube_links": ["https://www.youtube.com/playlist?list=PLajrVxcKRJ5f4a7cJ-MetbIdZ64_5Sci-"] },
-      { "name": "Crystal Physics and Semiconductor Physics", "youtube_links": ["https://www.youtube.com/playlist?list=PLajrVxcKRJ5f4a7cJ-MetbIdZ64_5Sci-"] }
+      {
+        "name": "Properties of Matter and Elasticity",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=25vA7qpwD8I"
+        ]
+      },
+      {
+        "name": "Quantum Mechanics and Wave Theory",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=uK2eFv7ne_Q"
+        ]
+      },
+      {
+        "name": "Lasers and Fiber Optics",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=fat1DXqtqPE"
+        ]
+      },
+      {
+        "name": "Crystal Physics and Semiconductor Physics",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=baDs4fOc_QU"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 1, "subject": "Problem Solving and Python Programming",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 1,
+    "subject": "Problem Solving and Python Programming",
     "topics": [
-      { "name": "Algorithmic Problem Solving and Flowcharts", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
-      { "name": "Python Basics (Data Types, Operators, I/O)", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
-      { "name": "Control Flow (Conditionals and Loops)", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
-      { "name": "Functions, Modules and Packages", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
-      { "name": "Lists, Tuples, Dictionaries and File Handling", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] }
+      {
+        "name": "Algorithmic Problem Solving and Flowcharts",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=EcPY7Mg8bjo"
+        ]
+      },
+      {
+        "name": "Python Basics (Data Types, Operators, I/O)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=gCCVsvgR2KU"
+        ]
+      },
+      {
+        "name": "Control Flow (Conditionals and Loops)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=Q64Y6RcsytI"
+        ]
+      },
+      {
+        "name": "Functions, Modules and Packages",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=4ubEUFgnbLI"
+        ]
+      },
+      {
+        "name": "Lists, Tuples, Dictionaries and File Handling",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=R-HLU9Fl5ug"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 2, "subject": "Engineering Mathematics II",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 2,
+    "subject": "Engineering Mathematics II",
     "topics": [
-      { "name": "Linear Algebra (Matrices, Determinants, Eigenvalues)", "youtube_links": ["https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7"] },
-      { "name": "Vector Calculus (Gradient, Divergence, Curl)", "youtube_links": ["https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S"] },
-      { "name": "Complex Analysis", "youtube_links": ["https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7"] },
-      { "name": "Laplace Transforms", "youtube_links": ["https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S"] },
-      { "name": "Fourier Series and Transforms", "youtube_links": ["https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S"] }
+      {
+        "name": "Linear Algebra (Matrices, Determinants, Eigenvalues)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=TLRiju0jFEI"
+        ]
+      },
+      {
+        "name": "Vector Calculus (Gradient, Divergence, Curl)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=m_Psx7CdvDk"
+        ]
+      },
+      {
+        "name": "Complex Analysis",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=LoTaJE16uLk"
+        ]
+      },
+      {
+        "name": "Laplace Transforms",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=rrlBRs_etts"
+        ]
+      },
+      {
+        "name": "Fourier Series and Transforms",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=mgXSevZmjPc"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 2, "subject": "Basic Electrical and Electronics Engineering",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 2,
+    "subject": "Basic Electrical and Electronics Engineering",
     "topics": [
-      { "name": "DC Circuits (Ohm's Law, KVL, KCL, Thevenin)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
-      { "name": "AC Circuits (RLC, Resonance, Power Factor)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
-      { "name": "Semiconductor Diodes and Transistors", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
-      { "name": "Basic Amplifier and Rectifier Circuits", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] }
+      {
+        "name": "DC Circuits (Ohm's Law, KVL, KCL, Thevenin)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=GPP79uJYtlQ"
+        ]
+      },
+      {
+        "name": "AC Circuits (RLC, Resonance, Power Factor)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=Pz5zxpHByzY"
+        ]
+      },
+      {
+        "name": "Semiconductor Diodes and Transistors",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=J4oO7PT_nzQ"
+        ]
+      },
+      {
+        "name": "Basic Amplifier and Rectifier Circuits",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=S845RG7X70s"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 2, "subject": "C Programming",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 2,
+    "subject": "C Programming",
     "topics": [
-      { "name": "Basics of C (Tokens, Operators, I/O)", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
-      { "name": "Control Statements and Loops", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
-      { "name": "Functions and Recursion", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
-      { "name": "Arrays, Strings and Pointers", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
-      { "name": "Structures, Unions and File Handling", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] }
+      {
+        "name": "Basics of C (Tokens, Operators, I/O)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=45awbsDzSgc"
+        ]
+      },
+      {
+        "name": "Control Statements and Loops",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=kfZEZj1IOBE"
+        ]
+      },
+      {
+        "name": "Functions and Recursion",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=OvTH-7ESoRA"
+        ]
+      },
+      {
+        "name": "Arrays, Strings and Pointers",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=fBjnrtwVZG0"
+        ]
+      },
+      {
+        "name": "Structures, Unions and File Handling",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=LpHnHRI6gLc"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 3, "subject": "Data Structures",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 3,
+    "subject": "Data Structures",
     "topics": [
-      { "name": "Arrays and Linked Lists", "youtube_links": ["https://www.youtube.com/playlist?list=PLZNz7wrFA85C9R7mVxQNAlTazqO20T8Fy", "https://www.youtube.com/playlist?list=PLWp84cOxjEjMoI__Rn9yDwNeYJR7Pgpl9"] },
-      { "name": "Stacks and Queues", "youtube_links": ["https://www.youtube.com/playlist?list=PLZNz7wrFA85C9R7mVxQNAlTazqO20T8Fy"] },
-      { "name": "Trees (Binary, BST, AVL)", "youtube_links": ["https://www.youtube.com/playlist?list=PLZNz7wrFA85C9R7mVxQNAlTazqO20T8Fy", "https://www.youtube.com/playlist?list=PLWp84cOxjEjMoI__Rn9yDwNeYJR7Pgpl9"] },
-      { "name": "Graphs (BFS, DFS, Shortest Path)", "youtube_links": ["https://www.youtube.com/playlist?list=PLZNz7wrFA85C9R7mVxQNAlTazqO20T8Fy"] },
-      { "name": "Sorting and Searching Algorithms", "youtube_links": ["https://www.youtube.com/playlist?list=PLWp84cOxjEjMoI__Rn9yDwNeYJR7Pgpl9"] },
-      { "name": "Hashing", "youtube_links": ["https://www.youtube.com/playlist?list=PLZNz7wrFA85C9R7mVxQNAlTazqO20T8Fy"] }
+      {
+        "name": "Arrays and Linked Lists",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=N6dOwBde7-M"
+        ]
+      },
+      {
+        "name": "Stacks and Queues",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=lno6Ft0tOZI"
+        ]
+      },
+      {
+        "name": "Trees (Binary, BST, AVL)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=cySVml6e_Fc"
+        ]
+      },
+      {
+        "name": "Graphs (BFS, DFS, Shortest Path)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=LDpHcG8rrKs"
+        ]
+      },
+      {
+        "name": "Sorting and Searching Algorithms",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=rbbTd-gkajw"
+        ]
+      },
+      {
+        "name": "Hashing",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=pMM9cIAFAug"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 3, "subject": "Object Oriented Programming",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 3,
+    "subject": "Object Oriented Programming",
     "topics": [
-      { "name": "Classes and Objects", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
-      { "name": "Inheritance and Polymorphism", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
-      { "name": "Exception Handling", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
-      { "name": "File I/O and Streams", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] }
+      {
+        "name": "Classes and Objects",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=x8T0eSPeydA"
+        ]
+      },
+      {
+        "name": "Inheritance and Polymorphism",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=gc216ndOrb4"
+        ]
+      },
+      {
+        "name": "Exception Handling",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=yFtK0KA1NcE"
+        ]
+      },
+      {
+        "name": "File I/O and Streams",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=6BhH2FPfS30"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 3, "subject": "Discrete Mathematics",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 3,
+    "subject": "Discrete Mathematics",
     "topics": [
-      { "name": "Sets, Relations and Functions", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"] },
-      { "name": "Propositional and Predicate Logic", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"] },
-      { "name": "Graph Theory", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"] },
-      { "name": "Combinatorics (Permutations, Combinations)", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"] },
-      { "name": "Boolean Algebra", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"] }
+      {
+        "name": "Sets, Relations and Functions",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=xeL1tGnazuQ"
+        ]
+      },
+      {
+        "name": "Propositional and Predicate Logic",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=8Do6tC7ZDG0"
+        ]
+      },
+      {
+        "name": "Graph Theory",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=sWsXBY19o8I"
+        ]
+      },
+      {
+        "name": "Combinatorics (Permutations, Combinations)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=Sq_dGzD0Q7M"
+        ]
+      },
+      {
+        "name": "Boolean Algebra",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=EW_2MhFu7tE"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 3, "subject": "Digital Principles and Computer Organization",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 3,
+    "subject": "Digital Principles and Computer Organization",
     "topics": [
-      { "name": "Number Systems and Boolean Algebra", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
-      { "name": "Combinational Circuits (Adders, Multiplexers, Decoders)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
-      { "name": "Sequential Circuits (Flip Flops, Registers, Counters)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
-      { "name": "CPU Organization and Instruction Cycle", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
-      { "name": "Memory Organization (Cache, RAM, ROM)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] }
+      {
+        "name": "Number Systems and Boolean Algebra",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=VXiBe7RZax0"
+        ]
+      },
+      {
+        "name": "Combinational Circuits (Adders, Multiplexers, Decoders)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=tvXOTfBnPtM"
+        ]
+      },
+      {
+        "name": "Sequential Circuits (Flip Flops, Registers, Counters)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=UEKSLb20ARw"
+        ]
+      },
+      {
+        "name": "CPU Organization and Instruction Cycle",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=5jIg-D5gKtY"
+        ]
+      },
+      {
+        "name": "Memory Organization (Cache, RAM, ROM)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=beqOrVgxsA0"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 4, "subject": "Operating Systems",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 4,
+    "subject": "Operating Systems",
     "topics": [
-      { "name": "Process Management and CPU Scheduling", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0s97SmLffYDPLccThs7oDgN"] },
-      { "name": "Memory Management and Virtual Memory", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0s97SmLffYDPLccThs7oDgN"] },
-      { "name": "Deadlocks (Detection, Prevention, Avoidance)", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0s97SmLffYDPLccThs7oDgN"] },
-      { "name": "File Systems and I/O Management", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0s97SmLffYDPLccThs7oDgN"] },
-      { "name": "Synchronization (Semaphores, Mutex, Monitors)", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0s97SmLffYDPLccThs7oDgN"] }
+      {
+        "name": "Process Management and CPU Scheduling",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=rFt1hwh-8zU"
+        ]
+      },
+      {
+        "name": "Memory Management and Virtual Memory",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=fGP6VHxqkIM"
+        ]
+      },
+      {
+        "name": "Deadlocks (Detection, Prevention, Avoidance)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=U7zKBXg-YOI"
+        ]
+      },
+      {
+        "name": "File Systems and I/O Management",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=K7PVWaF7sX0"
+        ]
+      },
+      {
+        "name": "Synchronization (Semaphores, Mutex, Monitors)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=To0BWiGLNp8"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 4, "subject": "Database Management Systems",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 4,
+    "subject": "Database Management Systems",
     "topics": [
-      { "name": "ER Model and Relational Model", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX", "https://www.youtube.com/playlist?list=PLn32mJ8RhQWiIgEoD2U3gHoHC3ApDOHas"] },
-      { "name": "SQL and Relational Algebra", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX", "https://www.youtube.com/playlist?list=PLn32mJ8RhQWiIgEoD2U3gHoHC3ApDOHas"] },
-      { "name": "Normalization (1NF, 2NF, 3NF, BCNF)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX", "https://www.youtube.com/playlist?list=PLn32mJ8RhQWiIgEoD2U3gHoHC3ApDOHas"] },
-      { "name": "Transaction Management and Concurrency Control", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX"] },
-      { "name": "Indexing and Query Optimization", "youtube_links": ["https://www.youtube.com/playlist?list=PLn32mJ8RhQWiIgEoD2U3gHoHC3ApDOHas"] }
+      {
+        "name": "ER Model and Relational Model",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=PpT3Hh66nAM"
+        ]
+      },
+      {
+        "name": "SQL and Relational Algebra",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=ryeGFOMZhK4"
+        ]
+      },
+      {
+        "name": "Normalization (1NF, 2NF, 3NF, BCNF)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=ABwD8IYByfk"
+        ]
+      },
+      {
+        "name": "Transaction Management and Concurrency Control",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=t5hsV9lC1rU"
+        ]
+      },
+      {
+        "name": "Indexing and Query Optimization",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=6ZquiVH8AGU"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 4, "subject": "Computer Networks",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 4,
+    "subject": "Computer Networks",
     "topics": [
-      { "name": "OSI and TCP/IP Models", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] },
-      { "name": "Data Link Layer (Framing, Error Detection, MAC)", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] },
-      { "name": "Network Layer (IP Addressing, Routing Algorithms)", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] },
-      { "name": "Transport Layer (TCP, UDP)", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] },
-      { "name": "Application Layer (HTTP, DNS, FTP, SMTP)", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] }
+      {
+        "name": "OSI and TCP/IP Models",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=3b_TAYtzuho"
+        ]
+      },
+      {
+        "name": "Data Link Layer (Framing, Error Detection, MAC)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=kFH4sT_NMHM"
+        ]
+      },
+      {
+        "name": "Network Layer (IP Addressing, Routing Algorithms)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=1KGC7Tp6HGo"
+        ]
+      },
+      {
+        "name": "Transport Layer (TCP, UDP)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=KY_Bqp2xDVc"
+        ]
+      },
+      {
+        "name": "Application Layer (HTTP, DNS, FTP, SMTP)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=pnoWCK82apU"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 4, "subject": "Microprocessors and Microcontrollers",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 4,
+    "subject": "Microprocessors and Microcontrollers",
     "topics": [
-      { "name": "8085 Microprocessor Architecture", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
-      { "name": "8085 Instruction Set and Assembly Programming", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
-      { "name": "8051 Microcontroller Architecture and Programming", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
-      { "name": "Interfacing (ADC, DAC, Keyboard, Display)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] }
+      {
+        "name": "8085 Microprocessor Architecture",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=OK_LudRfBas"
+        ]
+      },
+      {
+        "name": "8085 Instruction Set and Assembly Programming",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=maSeNvn5FXw"
+        ]
+      },
+      {
+        "name": "8051 Microcontroller Architecture and Programming",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=hZDReT0vzBU"
+        ]
+      },
+      {
+        "name": "Interfacing (ADC, DAC, Keyboard, Display)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=yFIiJ6bJUNE"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 5, "subject": "Theory of Computation",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 5,
+    "subject": "Theory of Computation",
     "topics": [
-      { "name": "Finite Automata (DFA, NFA)", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"] },
-      { "name": "Regular Expressions and Regular Languages", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"] },
-      { "name": "Context Free Grammars and Pushdown Automata", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"] },
-      { "name": "Turing Machines", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"] },
-      { "name": "Decidability and NP-Completeness", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"] }
+      {
+        "name": "Finite Automata (DFA, NFA)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=HH6zFZVh9fU"
+        ]
+      },
+      {
+        "name": "Regular Expressions and Regular Languages",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=WrzaPNj9OZ4"
+        ]
+      },
+      {
+        "name": "Context Free Grammars and Pushdown Automata",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=4YasgEmfTHY"
+        ]
+      },
+      {
+        "name": "Turing Machines",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=dNRDvLACg5Q"
+        ]
+      },
+      {
+        "name": "Decidability and NP-Completeness",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=RiDzt22KUd8"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 5, "subject": "Compiler Design",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 5,
+    "subject": "Compiler Design",
     "topics": [
-      { "name": "Lexical Analysis", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"] },
-      { "name": "Syntax Analysis (Parsing — LL, LR)", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"] },
-      { "name": "Semantic Analysis and Symbol Table", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"] },
-      { "name": "Intermediate Code Generation", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"] },
-      { "name": "Code Optimization and Code Generation", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i"] }
+      {
+        "name": "Lexical Analysis",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=BgNdtk9h8Ok"
+        ]
+      },
+      {
+        "name": "Syntax Analysis (Parsing — LL, LR)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=hGuXUIefVkc"
+        ]
+      },
+      {
+        "name": "Semantic Analysis and Symbol Table",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=nbAVBmfe6gc"
+        ]
+      },
+      {
+        "name": "Intermediate Code Generation",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=by7yPDu_JDA"
+        ]
+      },
+      {
+        "name": "Code Optimization and Code Generation",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=yHZFVz6TVmI"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 5, "subject": "Software Engineering",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 5,
+    "subject": "Software Engineering",
     "topics": [
-      { "name": "SDLC Models (Waterfall, Agile, Spiral)", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2", "https://www.youtube.com/playlist?list=PLrpK1inhO61U4Id86sm-csobVDYOiQUlM"] },
-      { "name": "Requirements Engineering", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2"] },
-      { "name": "Software Design (UML, Design Patterns)", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2"] },
-      { "name": "Software Testing (Unit, Integration, System)", "youtube_links": ["https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2", "https://www.youtube.com/playlist?list=PLrpK1inhO61U4Id86sm-csobVDYOiQUlM"] },
-      { "name": "Software Project Management and Metrics", "youtube_links": ["https://www.youtube.com/playlist?list=PLrpK1inhO61U4Id86sm-csobVDYOiQUlM"] }
+      {
+        "name": "SDLC Models (Waterfall, Agile, Spiral)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=ASrMUd0p9fE"
+        ]
+      },
+      {
+        "name": "Requirements Engineering",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=JNLRXczA9Y0"
+        ]
+      },
+      {
+        "name": "Software Design (UML, Design Patterns)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=tv-_1er1mWI"
+        ]
+      },
+      {
+        "name": "Software Testing (Unit, Integration, System)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=9gu4BsqjQrA"
+        ]
+      },
+      {
+        "name": "Software Project Management and Metrics",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=b6mcMkQONic"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 5, "subject": "Computer Architecture",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 5,
+    "subject": "Computer Architecture",
     "topics": [
-      { "name": "Instruction Set Architecture (RISC vs CISC)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
-      { "name": "Pipelining and Hazards", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
-      { "name": "Cache Memory and Memory Hierarchy", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
-      { "name": "I/O Organization and DMA", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
-      { "name": "Parallel Processing and Multiprocessors", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] }
+      {
+        "name": "Instruction Set Architecture (RISC vs CISC)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=bTCuFmY0sUg"
+        ]
+      },
+      {
+        "name": "Pipelining and Hazards",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=srlgaJgaxRE"
+        ]
+      },
+      {
+        "name": "Cache Memory and Memory Hierarchy",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=beqOrVgxsA0"
+        ]
+      },
+      {
+        "name": "I/O Organization and DMA",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=gGB-X3KmAZU"
+        ]
+      },
+      {
+        "name": "Parallel Processing and Multiprocessors",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=0l_KkiaQECk"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 6, "subject": "Web Technology",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 6,
+    "subject": "Web Technology",
     "topics": [
-      { "name": "HTML5, CSS3 and JavaScript", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
-      { "name": "Frontend Frameworks (React / Angular)", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
-      { "name": "Server-Side Programming (Node.js / Django)", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
-      { "name": "REST APIs and Web Services", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] },
-      { "name": "Databases on the Web (MySQL, MongoDB)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX"] }
+      {
+        "name": "HTML5, CSS3 and JavaScript",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=_GTMOmRrqkU"
+        ]
+      },
+      {
+        "name": "Frontend Frameworks (React / Angular)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=6dDrcocX7Gg"
+        ]
+      },
+      {
+        "name": "Server-Side Programming (Node.js / Django)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=ivFYlsOTuhQ"
+        ]
+      },
+      {
+        "name": "REST APIs and Web Services",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=-mN3VyJuCjM"
+        ]
+      },
+      {
+        "name": "Databases on the Web (MySQL, MongoDB)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=OdgZ0jr4jpM"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 6, "subject": "Distributed Systems",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 6,
+    "subject": "Distributed Systems",
     "topics": [
-      { "name": "Distributed System Models and Architecture", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] },
-      { "name": "Clock Synchronization and Mutual Exclusion", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0s97SmLffYDPLccThs7oDgN"] },
-      { "name": "Distributed File Systems and Naming", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0s97SmLffYDPLccThs7oDgN"] },
-      { "name": "Replication, Consistency and Fault Tolerance", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0s97SmLffYDPLccThs7oDgN"] }
+      {
+        "name": "Distributed System Models and Architecture",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=MOOSjYWdjYU"
+        ]
+      },
+      {
+        "name": "Clock Synchronization and Mutual Exclusion",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=YeCiSXAEpoE"
+        ]
+      },
+      {
+        "name": "Distributed File Systems and Naming",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=LcuT0ynb_ks"
+        ]
+      },
+      {
+        "name": "Replication, Consistency and Fault Tolerance",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=EUQXgozQ94k"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 6, "subject": "Information Security",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 6,
+    "subject": "Information Security",
     "topics": [
-      { "name": "Cryptography Basics (Symmetric and Asymmetric)", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] },
-      { "name": "Network Security (Firewalls, VPN, IDS/IPS)", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] },
-      { "name": "Authentication and Digital Signatures", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] },
-      { "name": "Web Security (XSS, SQL Injection, HTTPS)", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] }
+      {
+        "name": "Cryptography Basics (Symmetric and Asymmetric)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=o_g-M7UBqI8"
+        ]
+      },
+      {
+        "name": "Network Security (Firewalls, VPN, IDS/IPS)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=l7FeR1MIRFY"
+        ]
+      },
+      {
+        "name": "Authentication and Digital Signatures",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=JR4_RBb8A9Q"
+        ]
+      },
+      {
+        "name": "Web Security (XSS, SQL Injection, HTTPS)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=FsB_nRGdeLs"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 6, "subject": "Mobile Computing",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 6,
+    "subject": "Mobile Computing",
     "topics": [
-      { "name": "Wireless Networks (GSM, CDMA, LTE, 5G)", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] },
-      { "name": "Mobile Application Development (Android / iOS)", "youtube_links": ["https://www.youtube.com/playlist?list=PLlXl4m5lGmLVmsUuMa-iHYA8or-nFbuMC"] },
-      { "name": "Mobile Databases and Data Synchronization", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX"] },
-      { "name": "Location Services and Mobile Security", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] }
+      {
+        "name": "Wireless Networks (GSM, CDMA, LTE, 5G)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=iS8jmhVAfoQ"
+        ]
+      },
+      {
+        "name": "Mobile Application Development (Android / iOS)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=jtK3RYjEH2I"
+        ]
+      },
+      {
+        "name": "Mobile Databases and Data Synchronization",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=aJzlqBKvj34"
+        ]
+      },
+      {
+        "name": "Location Services and Mobile Security",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=L2byptjHLIA"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 7, "subject": "Electives",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 7,
+    "subject": "Electives",
     "topics": [
-      { "name": "Artificial Intelligence and Machine Learning", "youtube_links": ["https://www.youtube.com/playlist?list=PLWp84cOxjEjMoI__Rn9yDwNeYJR7Pgpl9"] },
-      { "name": "Cloud Computing", "youtube_links": ["https://www.youtube.com/playlist?list=PLE-RdVsYEV0txw-eSP-1eyXPrQyxkNOdR"] },
-      { "name": "Internet of Things (IoT)", "youtube_links": ["https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb"] },
-      { "name": "Big Data Analytics", "youtube_links": ["https://www.youtube.com/playlist?list=PLWp84cOxjEjMoI__Rn9yDwNeYJR7Pgpl9"] },
-      { "name": "Natural Language Processing", "youtube_links": ["https://www.youtube.com/playlist?list=PLWp84cOxjEjMoI__Rn9yDwNeYJR7Pgpl9"] }
+      {
+        "name": "Artificial Intelligence and Machine Learning",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=7jVKwYQdKww"
+        ]
+      },
+      {
+        "name": "Cloud Computing",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=pgx93dW8kpQ"
+        ]
+      },
+      {
+        "name": "Internet of Things (IoT)",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=6mBO2vqLv38"
+        ]
+      },
+      {
+        "name": "Big Data Analytics",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=bAyrObl7TYE"
+        ]
+      },
+      {
+        "name": "Natural Language Processing",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=OIxPO9kJ83k"
+        ]
+      }
     ]
   },
   {
-    "university": "Anna University", "branch": "CSE", "semester": 8, "subject": "Final Year Project",
+    "university": "Anna University",
+    "branch": "CSE",
+    "semester": 8,
+    "subject": "Final Year Project",
     "topics": [
-      { "name": "Project Planning and Requirements Analysis", "youtube_links": ["https://www.youtube.com/playlist?list=PLrpK1inhO61U4Id86sm-csobVDYOiQUlM"] },
-      { "name": "System Design and Architecture", "youtube_links": ["https://www.youtube.com/playlist?list=PLrpK1inhO61U4Id86sm-csobVDYOiQUlM"] },
-      { "name": "Implementation and Testing", "youtube_links": ["https://www.youtube.com/playlist?list=PLrpK1inhO61U4Id86sm-csobVDYOiQUlM"] },
-      { "name": "Project Report and Presentation", "youtube_links": ["https://www.youtube.com/playlist?list=PLrpK1inhO61U4Id86sm-csobVDYOiQUlM"] }
+      {
+        "name": "Project Planning and Requirements Analysis",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=TNzvuUFy9Gg"
+        ]
+      },
+      {
+        "name": "System Design and Architecture",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=m8Icp_Cid5o"
+        ]
+      },
+      {
+        "name": "Implementation and Testing",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=u6QfIXgjwGQ"
+        ]
+      },
+      {
+        "name": "Project Report and Presentation",
+        "youtube_links": [
+          "https://www.youtube.com/watch?v=00Qwd1D_hqo"
+        ]
+      }
     ]
   }
 ]
