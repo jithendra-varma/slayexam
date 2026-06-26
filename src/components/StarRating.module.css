@@ -1,0 +1,26 @@
+.stars {
+  display: inline-flex;
+  gap: 2px;
+}
+
+.star {
+  color: var(--border);
+  transition: color 0.1s;
+  line-height: 1;
+}
+
+.star.filled {
+  color: var(--warning);
+}
+
+.stars:not(.readonly) .star {
+  cursor: pointer;
+}
+
+.stars:not(.readonly) .star:hover {
+  color: var(--warning);
+}
+
+.sm .star { font-size: 1rem; }
+.md .star { font-size: 1.3rem; }
+.lg .star { font-size: 1.7rem; }

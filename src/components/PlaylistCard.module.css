@@ -1,0 +1,103 @@
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  transition: border-color 0.15s, transform 0.15s;
+}
+
+.card:hover {
+  border-color: var(--brand);
+  transform: translateY(-2px);
+}
+
+.top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.branch {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  white-space: nowrap;
+}
+
+.desc {
+  font-size: 0.87rem;
+  color: var(--text-muted);
+}
+
+.meta {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.ratingRow {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.ratingNum {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
+.userRating {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.rateLabel {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
+.rated {
+  font-size: 0.8rem;
+  color: var(--warning);
+}
+
+.actions {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 0.25rem;
+}
+
+.editBtn, .copyBtn {
+  border: none;
+  padding: 0.4rem 0.9rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.editBtn {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--text);
+}
+
+.editBtn:hover { border-color: var(--brand); }
+
+.copyBtn {
+  background: var(--brand);
+  color: #fff;
+}
+
+.copyBtn:hover { background: var(--brand-dark); }

@@ -1,0 +1,240 @@
+.page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+.back {
+  background: none;
+  border: none;
+  color: var(--brand);
+  font-size: 0.9rem;
+  margin-bottom: 1.25rem;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1.75rem;
+}
+
+.header h1 { font-size: 1.5rem; }
+
+.desc {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin-top: 0.3rem;
+}
+
+.meta {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-top: 0.4rem;
+}
+
+.headerActions {
+  display: flex;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+.editMetaBtn {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 0.4rem 0.9rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+}
+
+.deleteBtn {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--danger);
+  padding: 0.4rem 0.9rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+}
+
+.metaForm {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  margin-bottom: 1.5rem;
+}
+
+.metaForm label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  font-size: 0.88rem;
+  color: var(--text-muted);
+}
+
+.toggle {
+  flex-direction: row !important;
+  align-items: center;
+  gap: 0.5rem !important;
+  cursor: pointer;
+}
+
+.metaForm input[type="text"],
+.metaForm input[type="url"],
+.metaForm select {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 0.55rem 0.8rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  outline: none;
+}
+
+.metaBtns {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.metaBtns button {
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+}
+
+.saveBtn {
+  background: var(--brand);
+  color: #fff;
+  font-weight: 600;
+}
+
+.addSection {
+  margin-bottom: 2rem;
+}
+
+.addSection h3 {
+  font-size: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.urlForm {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.urlForm input {
+  flex: 1;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 0.6rem 0.9rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  outline: none;
+}
+
+.urlForm input:focus { border-color: var(--brand); }
+
+.urlForm button {
+  background: var(--brand);
+  color: #fff;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.urlForm button:disabled { opacity: 0.6; cursor: not-allowed; }
+
+.error {
+  color: var(--danger);
+  font-size: 0.85rem;
+  margin-top: 0.5rem;
+}
+
+.videoList h3 {
+  font-size: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.empty {
+  color: var(--text-muted);
+  text-align: center;
+  padding: 2rem 0;
+  font-size: 0.9rem;
+}
+
+.videoRow {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.thumb {
+  width: 80px;
+  height: 45px;
+  border-radius: 4px;
+  overflow: hidden;
+  flex-shrink: 0;
+  background: var(--surface2);
+}
+
+.thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.vInfo { flex: 1; min-width: 0; }
+
+.vTitle {
+  font-size: 0.9rem;
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.vSource {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  margin-top: 0.2rem;
+}
+
+.vActions {
+  display: flex;
+  gap: 0.35rem;
+}
+
+.vActions button {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  width: 28px;
+  height: 28px;
+  border-radius: 5px;
+  font-size: 0.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.vActions button:disabled { opacity: 0.3; cursor: not-allowed; }
+
+.removeBtn {
+  color: var(--danger) !important;
+}
